@@ -41,5 +41,4 @@
 # Deliverables
 1. **Preprocessed Dataset:** `adult_processed.csv`
 2. **Notebook:**
-- Screenshots of dataset head and describe outputs are included in the notebook
-- All preprocessing steps are reproducible
+
