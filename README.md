@@ -4,7 +4,7 @@
 - Python: Pandas, Matplotlib, Seaborn
 ## Dataset
 - **Name:** Adult Income Dataset
-- 
+ 
 ## Steps Followed
 
 ### 1. Identify Categorical and Numerical Features
